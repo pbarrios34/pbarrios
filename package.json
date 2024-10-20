@@ -1,0 +1,23 @@
+{
+  "name": "pbarrios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbarrios34/pbarrios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbarrios34/pbarrios/issues"
+  },
+  "homepage": "https://github.com/pbarrios34/pbarrios#readme",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
